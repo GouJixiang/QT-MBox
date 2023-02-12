@@ -1,0 +1,19 @@
+QLabel#mainTitleLabel {
+    font-size: 30px;
+    color: rgb(0, 150, 255);
+    font-weight: bold;
+}
+
+QPushButton {
+    margin: 10;
+    font-size: 16px;
+    background-color: rgb(0, 150, 255);
+    height: 100;
+    border-radius: 10px;
+}
+
+QPushButton:hover {
+    background-color: rgb(101, 150, 255);
+    font-weight: bold;
+    font-size: 24px;
+}
